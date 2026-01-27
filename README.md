@@ -12,7 +12,7 @@ can be shared here. Make sure to communicate so that you limit merge conflicts.
 * `data` Shared dataset can be shared here. Note, do not put large datasets on GitHub. Speak to the organizers if you 
 need to share large datasets. 
 
-## Project Name
+## Project Name: Phytoplankton Structure
 
 ## One-line Description
 
