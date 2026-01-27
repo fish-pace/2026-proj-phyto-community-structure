@@ -1,8 +1,6 @@
-# fpyy_proj_template
+# Readme For Phytoplankton Community Structure project
 
-Template for starting Fish-PACE project repos. 
-
-This repo is an example of how teams can structure their project repositories and format their project README.md file, but feel free to adapt as suits your needs.
+T
 
 **Folder Structure**
 
