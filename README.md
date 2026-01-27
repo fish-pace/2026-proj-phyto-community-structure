@@ -34,7 +34,7 @@ need to share large datasets.
 * Initial idea: "short description"
 * Ideation jam board: Add link
 * Ideation Presentation: Add link
-* Slack channel: fp25_proj_name
+* Slack channel: proj-phyto-community-structure
 * Project google drive: Add link
 * Final presentation: Add link
 
