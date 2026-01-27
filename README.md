@@ -22,7 +22,7 @@ need to share large datasets.
 
 | Name                | Role                |
 |---------------------|---------------------|
-| Participant 1       | Project Facilitator |
+| Shelly Tomlinson    | Project Facilitator |
 | Participant 2       | Participant         |
 | Participant 3       | Participant         |
 
