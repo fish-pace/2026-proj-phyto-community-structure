@@ -1,6 +1,6 @@
 # Readme For Phytoplankton Community Structure project
 
-T
+This project will look at blooms along the East Coast of the United States. We will select 3 blooms in Mass Bay, Florida, and Chesapeake Bay
 
 **Folder Structure**
 
