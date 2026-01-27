@@ -22,9 +22,12 @@ need to share large datasets.
 
 | Name                | Role                |
 |---------------------|---------------------|
-| Participant 1       | Project Facilitator |
-| Participant 2       | Participant         |
-| Participant 3       | Participant         |
+| Participant 1       |Shelly Tomlinson |
+| Participant 2       |Sachi Edirisinghe |
+| Participant 3       |Devon Winkler     |
+| Participant 3       |Felix Jose         |
+| Participant 3       |Felix Jose         |
+
 
 ## Planning
 
