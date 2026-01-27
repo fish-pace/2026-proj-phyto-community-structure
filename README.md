@@ -22,11 +22,11 @@ need to share large datasets.
 
 | Name                | Role                |
 |---------------------|---------------------|
-| Participant 1       |Shelly Tomlinson |
-| Participant 2       |Sachi Edirisinghe |
-| Participant 3       |Devon Winkler     |
-| Participant 3       |Felix Jose         |
-| Participant 3       |Felix Jose         |
+| Participant 1       |Shelly Tomlinson     |
+| Participant 2       |Sachi Edirisinghe    |
+| Participant 3       |Devon Winkler        |
+| Participant 4       |Felix Jose           |
+| Participant 5       |Cassandra Pacheco    |
 
 
 ## Planning
