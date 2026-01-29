@@ -29,7 +29,14 @@ This project looked at spectral differences between 4 blooms along the east coas
 
 ## Planning
 
-* Initial idea:
+### Initial idea:
+* We aimed to investigate whether distinct phytoplankton bloom types exhibit measurable differences in hyperspectral reflectance signatures using PACE data.
+
+* Specifically, we examined a few known high-biomass blooms across three regions of the U.S. East Coast: Massachusetts Bay, Chesapeake Bay, and the West Florida Shelf.
+
+* The selected bloom events were:
+* ** Massachussets Bay: *Pseudo-nitzschia* bloom, June 16-19 2025
+
 * We wanted to investigate if there were differences between a few known high biomass blooms in three regions of the East Coast (Massachusetts, Chesapeake Bay, and the West Florida coast). A bloom of Pseudo-nitzschia was selected for MA Bay June 16-19, 2025; Chesapeake Bay a Levanderina fissa bloom on July 22, 2025 and a Heterocapsa rotundata bloom on August 27, 2024; and West FL coast a Karenia brevis bloom in October 2024. Field data was collected from state monitoring programs in MA, MD, and FL to identify key bloom dates. OLCI and several browsers were used to select clear PACE image dates which coincided with bloom occurrence. We created Chl from standard PACE products to help identify high biomass regions, investigated the use of the AVW (both from RRS and Rhos). The goal of the project was to see if we could see any differences in the spectra of these different bloom formers. 
 
 * Slack channel: proj-phyto-community-structure
