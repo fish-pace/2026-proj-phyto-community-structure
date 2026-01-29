@@ -14,9 +14,7 @@ need to share large datasets.
 
 ## One-line Description
 
-This project will look at blooms along the East Coast of the United States. We will select 3 blooms in Mass Bay, Florida, and Chesapeake Bay. Field data will be used to identify bloom location, extent and timing. We will select PACE data and look at spectra, standard chl, etc algorithms for bloom detection/separation.
-
-## 
+This project looked at spectral differences between 4 blooms along the east coast of the US. 
 
 ## Collaborators
 
@@ -31,12 +29,12 @@ This project will look at blooms along the East Coast of the United States. We w
 
 ## Planning
 
-* Initial idea: "short description"
-* Ideation jam board: Add link
-* Ideation Presentation: Add link
+* Initial idea:
+* We wanted to investigate if there were differences between a few known high biomass blooms in three regions of the East Coast (Massachusetts, Chesapeake Bay, and the West Florida coast). A bloom of Pseudo-nitzschia was selected for MA Bay June 16-19, 2025; Chesapeake Bay a Levanderina fissa bloom on July 22, 2025 and a Heterocapsa rotundata bloom on August 27, 2024; and West FL coast a Karenia brevis bloom in October 2024. Field data was collected from state monitoring programs in MA, MD, and FL to identify key bloom dates. OLCI and several browsers were used to select clear PACE image dates which coincided with bloom occurrence. We created Chl from standard PACE products to help identify high biomass regions, investigated the use of the AVW (both from RRS and Rhos). The goal of the project was to see if we could see any differences in the spectra of these different bloom formers. 
+
 * Slack channel: proj-phyto-community-structure
-* Project google drive: Add link
-* Final presentation: Add link
+* Project google drive: None
+* Final presentation: https://docs.google.com/presentation/d/1GYdNin_IicdsqjsnjJLL2Vu7Wsp47_FCp-3Wl_4WwUU/edit?usp=sharing
 
 ## Background
 
@@ -52,10 +50,47 @@ FL State phytoplankton data
 OLCI imagery to identify potential clear dates for PACE, and bloom extent and timing
 
 ## Workflow/Roadmap
+Project Idea:
+Investigating PACE hyperspectral imagery for harmful algal blooms (HABs) in Massachusetts Bay, Chesapeake Bay and West Florida Shelf.
 
-[ ] Gather state datesets to identify bloom location and relevant dates
-[ ] Identify key dates for a few key blooms, and create Chl image from PACE (may look at other products if time allows
-[ ] Extract spectra at bloom locations and start to analyze differences
+Study areas:
+Chesapeake Bay
+	Dataset: MDPhyto_forPACE.xls
+	Extracted from MD DNR and VA Department of Health phytoplankton data
+Heterocapsa/other - VA/MD dataset (Shelly) -> Mar 10-Apr 16, 2024
+Levanderina fissa - Jun 25-Jul 21, 2025
+West Florida Shelf - Karenia in 2024 - pre-bloom (Sept 23, 2024), post-bloom (Oct 21, 2024) - FWC has field data
+Massachusetts Bay
+June 16 - June 19 2025, pseudo-nitzschia
+Bounding box for Massachusetts Bay, -71.7 to -67.8 and 40.6 to 43.5
+
+Tasks:
+1/29: 
+MA: Plots are done (AVW, Chla, spectra from Rrs)
+Learned how to use PACE code rather than SeaDAS  
+Changes at start or end of field date
+Devon add slide for MA with purpose statement 
+Chesapeake: Chla, AVW done (from Rrs). Not great due to high Rrs and chl. Can look into using Rhos (Shelly). Sachi working on capturing spectra. Would suggest using the Rhos from SFREFL files rather than the AOP (Rrs).
+FL: Felix use Cassie’s code to do a similar analysis for Karenia 
+
+Extract standard imagery products for:
+Massachusetts Bay: Jun 16 or 19, 2025 - Devon/Cassandra
+Chesapeake Bay: Aug 27, 2024 Heterocapsa or July 21, 2025 Levanderina blooms - Shelly
+West Florida Coast: October 23, 2024 - Felix
+Pull PACE dataset - https://search.earthdata.nasa.gov/search?fi=OCI
+Collect in-situ cell count data
+Look at transect across Florida Karenia brevis bloom - Felix
+Chesapeake Bay
+Extract points from field dataset in Chesapeake Bay - Sachi
+Massachusetts Bay, Jun 17, 2025, MWRA field survey
+Analyze imagery for remote sensing reflectance
+Compare against known group standards
+
+Approach: 
+Exploratory: Select 3 blooms
+Look at spectra for certain blooms and see if they are different for 3 blooms
+Look at existing algorithms, how could they be tweaked, modified
+Cassandra - has code already for extracting spectra from her zooplankton work that could be used to investigate differences in these blooms. 
 
 ## Results/Findings
 
