@@ -95,8 +95,8 @@ Investigate the use of PACE hyperspectral imagery to characterize and compare ha
 
 * West Florida Shelf
     * *Karenia brevis* bloom in 2024
-        * Pre-bloom: Sept 23, 2024)
-        * Post-bloom (Oct 21, 2024)
+        * Pre-bloom: Sept 23, 2024
+        * Post-bloom: Oct 21, 2024
     * FWC has field data
 
 * Massachusetts Bay
