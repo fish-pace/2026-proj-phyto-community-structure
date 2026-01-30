@@ -61,7 +61,7 @@ This project looked at spectral differences between 4 blooms along the east coas
 * To examine whether high-biomass blooms dominated by different phytoplankton taxa exhibit distinct reflectance spectra and AVW characteristics, using PACE hyperspectral imagery combined with *in situ* observations.
   
 # Datasets
-* State phytoplankton monitoring data
+* State phytoplankton monitoring data:
     * Massachusetts (MA)
     * Maryland/Virginia (MD/VA)
     * Florida (FL)
@@ -98,7 +98,10 @@ Investigate the use of PACE hyperspectral imagery to characterize and compare ha
 
 * Massachusetts Bay
     * *Pseudo-nitzschia* bloom, June 16-19, 2025
-    * Bounding box for Massachusetts Bay: -71.7 to -67.8 and 40.6 to 43.5
+    * Bounding box for Massachusetts Bay:
+        * Latitude: -71.7 to -67.8
+        * Longitude: 40.6 to 43.5
+    *  Field observations from MWRA surveys
 
 ## Tasks:
 1/29: 
