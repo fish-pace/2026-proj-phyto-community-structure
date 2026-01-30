@@ -66,10 +66,10 @@ This project looked at spectral differences between 4 blooms along the east coas
     * Maryland/Virginia (MD/VA)
     * Florida (FL)
 
-* OLCI imagery
+* OLCI imagery:
     * Used for identifying bloom timing, spatial extent, and selecting cloud-free PACE overpasses
  
-* PACE OCI imagery
+* PACE OCI imagery:
     * Hyperspectral remote sensing reflectance (Rrs)
     * Surface Reflectance (Rhos)
     * Derived chlorophyll-a and AVW products
