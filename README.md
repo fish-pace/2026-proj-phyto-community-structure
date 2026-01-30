@@ -35,11 +35,13 @@ This project looked at spectral differences between 4 blooms along the east coas
 * Specifically, we examined a few known high-biomass blooms across three regions of the U.S. East Coast: Massachusetts Bay, Chesapeake Bay, and the West Florida Shelf.
 
 * The selected bloom events were:
-    * Massachussets Bay: *Pseudo-nitzschia* bloom, June 16-19, 2025
+    * Massachussets Bay:
+        * *Pseudo-nitzschia* bloom, June 16-19, 2025
     * Chesapeake Bay:
         * *Levanderina fissa* bloom, July 22, 2025
         * *Heterocapsa rotundata* bloom, August 27, 2024
-    * West Florida Shelf: *Karenia brevis* bloom, October 2024
+    * West Florida Shelf:
+        * *Karenia brevis* bloom, October 2024
 
 * Field data was collected from state monitoring programs in MA, MD, and FL to identify key bloom dates.
 
@@ -52,7 +54,9 @@ This project looked at spectral differences between 4 blooms along the east coas
 
 ## Project Logistics:
 * Slack channel: proj-phyto-community-structure
+  
 * Project google drive: None
+  
 * Final presentation: https://docs.google.com/presentation/d/1GYdNin_IicdsqjsnjJLL2Vu7Wsp47_FCp-3Wl_4WwUU/edit?usp=sharing
 
 # Background
