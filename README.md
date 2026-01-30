@@ -74,7 +74,6 @@ This project looked at spectral differences between 4 blooms along the east coas
     * Surface Reflectance (Rhos)
     * Derived chlorophyll-a and AVW products
 
-
 # Workflow/Roadmap
 ## Project Idea:
 Investigate the use of PACE hyperspectral imagery to characterize and compare harmful algal blooms (HABs) in:
